@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstProject/FirstProject.iml" filepath="$PROJECT_DIR$/FirstProject/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Framework-with-SpringBoot-master.iml" filepath="$PROJECT_DIR$/.idea/Spring-Framework-with-SpringBoot-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMVC/SpringBootMVC.iml" filepath="$PROJECT_DIR$/SpringBootMVC/SpringBootMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMVC2/SpringBootMVC (1).iml" filepath="$PROJECT_DIR$/SpringBootMVC2/SpringBootMVC (1).iml" />
+    </modules>
+  </component>
+</project>
